@@ -1,10 +1,4 @@
 # 面经
 
-| file            |                  |
-| --------------- | ---------------- |
-| 阿里小蜜-sjq.md | nlp              |
-| 阿里小蜜-why.md | nlp              |
-| 头条-dn.md      | nlp              |
-| 微软-sjq.md     | nlp              |
-| 微软面经-dy.md  | software enginer |
+thanks to [stdiohero](https://github.com/stdiohero), [Like666](https://github.com/Like666), [luffywalf](https://github.com/luffywalf), [mengxinqi](https://github.com/mengxinqi), [dy425581723](https://github.com/dy425581723), [Sileven](https://github.com/Sileven).
 
